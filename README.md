@@ -5,7 +5,7 @@
 This is my personal Portfolio Website
 
 Feel free to check it out and learn a little more about me
-[daniellewalker.me]"daniellewalker.me"
+[daniellewalker.me](http://daniellewalker.me/)
 
 
 I designed it to host my projects, resume, contact info and other information about me!
