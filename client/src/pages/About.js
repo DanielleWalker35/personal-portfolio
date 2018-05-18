@@ -5,11 +5,11 @@ function About() {
         <div className="profileWrapper">
             <div className="aboutPage">
                 <p className="profileHeader">Profile</p>
-                <p>Web developer and life long lerner</p>
+                <p>Web developer and life long learner</p>
                 <div className="bioPicWrapper">
                     <div className="aboutMe">
                         <p className="pFirstHeading">About me</p>
-                        <p>I am full-stack web developer. I primarily use React and Javascript on the front-end, but love learning new techonologies! </p>
+                        <p>I am a full-stack web developer. I primarily use React and Javascript on the front-end, but love learning new techonologies! </p>
                     </div>
                     <div className="picOfMe"></div>
                     <div className="contactInfo">

@@ -18,8 +18,8 @@ function Projects() {
                 <div className="pBox">
                     <p className="projectP"> <span className="bold">TURN TAKER</span>  is a full-stack web application that helps families, friends, or co-workers assign chores or activities in a fair way. Assignments are base on an ability/age level and how many chores/activities someone has already been assigned. You can add, edit and delete people and chores then easily assign chores. </p>
                     <p className="projectP"><span className="bold">TECHNOLOGIES USED:</span> React, CSS, HTML, JavaScript, Redux + Thunk, MongoDB, Mongoose, Express</p>
-                    <p className="projectP"><span className="bold">LESSONS LEARNED:</span> Understanding the logic behind assiging the chores taking into consideration the age level and who has already been assigned. Also gained a good understanding of how to pass state data to different componenets.</p>
-                    <p className="projectP"><span className="bold">FUTURE DEVELOPMENT PLANS:</span> Add user authentication so that you can save groups of chores and or people. For example you could save Saturday Chores and Kids or Monday Chores and CoWorkers as groups and automatically populate to assign.</p>
+                    <p className="projectP"><span className="bold">LESSONS LEARNED:</span> The logic behind assiging chores taking into consideration the age level and who has already been assigned. Gained a good understanding of how to pass state data to different componenets.</p>
+                    <p className="projectP"><span className="bold">FUTURE DEVELOPMENT PLANS:</span> Add user authentication so that you can save groups of chores and or people. For example you could save Saturday Chores and Kids as a group and automatically populate to assign.</p>
                 </div>
             </div>
 
