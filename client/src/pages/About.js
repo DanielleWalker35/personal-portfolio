@@ -9,7 +9,7 @@ function About() {
                 <div className="bioPicWrapper">
                     <div className="aboutMe">
                         <p className="pFirstHeading">About me</p>
-                        <p>I am a full-stack web developer. I have experience in Angular, React, MongoDB and more. I love learning new techonologies and I am always up for a challenge. </p>
+                        <p>I am a full-stack web developer. I have experience in Angular, React, MongoDB and more. I love learning new techonologies and I am always up for a challenge! </p>
                     </div>
                     <div className="picOfMe"></div>
                     <div className="contactInfo">
