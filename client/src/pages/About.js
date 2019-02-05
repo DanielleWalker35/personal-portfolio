@@ -5,7 +5,7 @@ function About() {
         <div className="profileWrapper">
             <div className="aboutPage">
                 <p className="profileHeader">Profile</p>
-                <p>Web developer and life long learner</p>
+                <p>Web developer</p>
                 <div className="bioPicWrapper">
                     <div className="aboutMe">
                         <p className="pFirstHeading">About me</p>
